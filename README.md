@@ -16,10 +16,10 @@ The dataset can be found through [AdventureWorks DataSet](http://bit.ly/40PU5AM)
 (4) Data visualizations and extracting insights.
 
 ## Analysis Result ( In a specific time range) 
-*(1)* The number of orders experienced significant growth from 2005 to 2008.
-      The growth rate appears to be accelerating over the years.
-      The business has high growth potential.
-      The increasing number of orders indicates growing market demand.
+*(1)* -The number of orders experienced significant growth from 2005 to 2008.
+      -The growth rate appears to be accelerating over the years.
+      -The business has high growth potential.
+      -The increasing number of orders indicates growing market demand.
 ### Forecasting:
 Assuming the growth pattern continues, you can estimate the number of orders for subsequent years. For example, you could predict that in 2009, the number of orders might be around 17,065 orders
 
