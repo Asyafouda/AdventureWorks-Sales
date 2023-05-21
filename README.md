@@ -20,15 +20,16 @@ The dataset can be found through [AdventureWorks DataSet](http://bit.ly/40PU5AM)
       The growth rate appears to be accelerating over the years.
       The business has high growth potential.
       The increasing number of orders indicates growing market demand.
-*Forecasting*: Assuming the growth pattern continues, you can estimate the number of orders for subsequent years. For example, you could predict that in 2009, the number of orders might be around 17,065 orders
+### Forecasting:
+Assuming the growth pattern continues, you can estimate the number of orders for subsequent years. For example, you could predict that in 2009, the number of orders might be around 17,065 orders
 
 *(2)* Accessories and Bikes are top-selling categories, indicating high demand and potential revenue generation.
       Clothes and Components have lower order volumes, suggesting room for improvement and increased marketing efforts
-*Solution suggestion*:
-Explore opportunities to expand and improve offerings in Clothes and Components.
-Develop targeted marketing strategies for these categories to increase customer awareness and demand.
-Optimize inventory management to balance supply and demand for all categories.
-Focus on enhancing customer satisfaction and engagement across all product categories.
+### Solution suggestion:
+- Explore opportunities to expand and improve offerings in Clothes and Components.
+- Develop targeted marketing strategies for these categories to increase customer awareness and demand.
+- Optimize inventory management to balance supply and demand for all categories.
+- Focus on enhancing customer satisfaction and engagement across all product categories.
 
 *(3)*  Across all years, the southwest territory was the top-performing region in terms of sales. This information can be used by organizations to identify regions where sales and marketing efforts may need to be improved to increase profitability.
 
